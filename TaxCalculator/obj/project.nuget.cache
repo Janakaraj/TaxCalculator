@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECTkPgnJdZj8239j/av1WOChMjzij89Po6depBtTW44pPEaTSZyjf1ZqEmYdzxwNQ88uCuz5yIWCSaooeE7CKw==",
+  "dgSpecHash": "4fq2843aTy75IMfoiV+SL3+fAnBY/gkI7pb4tdAclrfDdQEIZl+Tc+HSAmEIbesw2HGibiOI94F3Zt1UxBpH3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\GitHub\\TaxCalculator\\TaxCalculator\\TaxCalculator.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\GitHub\\TaxCalculator\\TaxCalculator\\TaxCalculatorNS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

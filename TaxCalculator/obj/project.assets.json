@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\TaxCalculator\\TaxCalculator\\TaxCalculator.csproj",
-      "projectName": "TaxCalculator",
-      "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\TaxCalculator\\TaxCalculator\\TaxCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\TaxCalculator\\TaxCalculator\\TaxCalculatorNS.csproj",
+      "projectName": "TaxCalculatorNS",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\TaxCalculator\\TaxCalculator\\TaxCalculatorNS.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\TaxCalculator\\TaxCalculator\\obj\\",
       "projectStyle": "PackageReference",

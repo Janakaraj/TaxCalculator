@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculatorNS.exe
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculatorNS.deps.json
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculatorNS.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculatorNS.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculatorNS.dll
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\bin\Debug\netcoreapp3.1\TaxCalculatorNS.pdb
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculatorNS.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculatorNS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculatorNS.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculatorNS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculatorNS.dll
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculatorNS.pdb
+C:\Users\ADMIN\Documents\GitHub\TaxCalculator\TaxCalculator\obj\Debug\netcoreapp3.1\TaxCalculatorNS.genruntimeconfig.cache

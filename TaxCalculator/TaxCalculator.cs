@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TaxCalculator
+namespace TaxCalculatorNS
 {
-    class TaxCalculator
+    public class NumberIsNegativeException : Exception
+    {
+    }
+    public class TaxCalculator
     {
         private double _taxPercentageSlab1 = 5.0;
         private double _taxPercentageSlab2 = 20.0;
@@ -13,6 +16,10 @@ namespace TaxCalculator
         private int Age { get; set; }
         public TaxCalculator(int age, double salary)
         {
+            if (age < 0 || salary < 0)
+            {
+                throw new NumberIsNegativeException();
+            }
             this.Salary = salary;
             this.Age = age;
         }
